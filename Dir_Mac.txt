@@ -1,8 +1,8 @@
-00:34:fe:f9:36:2b~Isidro~OFF
-b4:52:7d:cb:01:5b~Marco~ON
+00:34:fe:f9:36:2b~Isidro~ON
+b4:52:7d:cb:01:5b~Marco~OFF
 d8:5b:2a:ca:10:4d~Ricardo-(Samsum Grande)~OFF
-24:0D:C2:C5:05:13~Victor~ON
-50:C8:E5:FF:52:F5~Sonris~ON
+24:0D:C2:C5:05:13~Victor~OFF
+50:C8:E5:FF:52:F5~Sonris~OFF
 
 78:00:9E:6D:52:88~Vecinos (Samsum Mediano)~OFF
 5C:E8:EB:E0:D3:17~Vecinos (Samsum Blanco "unknown")~OFF
